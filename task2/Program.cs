@@ -33,3 +33,7 @@ if(number3 > number2)
 {
     Console.Write($"{number3}");
 }
+    else
+{
+    Console.Write("все числа равны");
+}
